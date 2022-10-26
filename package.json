@@ -16,5 +16,8 @@
     "url": "https://github.com/tsuka8888/next-nest-tutorial/issues"
   },
   "homepage": "https://github.com/tsuka8888/next-nest-tutorial#readme",
-  "workspaces": ["server", "web"]
+  "workspaces": [
+    "server",
+    "web"
+  ]
 }
